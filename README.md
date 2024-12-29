@@ -9,5 +9,6 @@ En este curso vemos de todo
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Harold
+* Creado por el increible Harold Coello
 
 Y como un amable recordatorio: **Este readme es un chiste**. Diseñado para ejemplo 
