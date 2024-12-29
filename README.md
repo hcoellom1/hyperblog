@@ -10,5 +10,10 @@ En este curso vemos de todo
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Harold
 * Creado por el increible Harold Coello
+<<<<<<< HEAD
+=======
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
+>>>>>>> readme-mejorado
 
 Y como un amable recordatorio: **Este readme es un chiste**. Diseñado para ejemplo 
